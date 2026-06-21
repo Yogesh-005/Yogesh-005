@@ -145,7 +145,9 @@ class CurrentFocus {
 |---|---|---|
 | **[Threatelligence](https://github.com/Yogesh-005/threatelligence_vin2win)** | Python, FastAPI, React, ETL | Runner-Up, Societe Generale Hackathon 2025 — ETL pipeline ingesting 1,800+ articles & 1,800+ IOCs from live RSS/threat-feed APIs; full RSS-to-intelligence cycle under 30s |
 | **[SecureShell Desktop Tool](https://github.com/Yogesh-005/Unified-Web-Terminal-Interactive-Shell-Access-Anywhere)** | Python, Flask, Flutter, SSH | Cross-platform desktop GUI wrapping SSH CLI operations into a guided interface; estimated 3+ hours/week saved for 10+ non-technical users |
-| **[SafeRoute](https://github.com/vampbrain/SafeSteps)** | Python, scikit-learn, Flask, Flutter, Google Maps API | Crime-risk classification model trained on 36,000+ records to score route safety in real time, served via Flask REST API to a Flutter app |
+| **[SafeSteps](https://github.com/vampbrain/SafeSteps)** | Python, scikit-learn, Flask, Flutter, Google Maps API | Crime-risk classification model trained on 36,000+ records to score route safety in real time, served via Flask REST API to a Flutter app |
+
+</div>
 
 ## 🚧 Currently Building
 

@@ -37,16 +37,19 @@ class Yogesh {
 
 ```java
 class CurrentFocus {
+
     String[] building = {
-        "REST APIs & full-stack platforms (MERN)",
-        "Threat intelligence ETL pipelines",
-        "Multi-agent AI systems with LangChain & Ollama"
+        "Scalable Full-Stack Applications",
+        "Threat Intelligence Platforms",
+        "Multi-Agent AI Systems",
+        "Developer Productivity Tools"
     };
 
     String[] learning = {
-        "LLM-powered classification & NLP workflows",
-        "Async processing pipelines (WebSockets)",
-        "Cryptography & secure systems design"
+        "Advanced System Design",
+        "LLM Orchestration",
+        "Distributed Systems",
+        "Cloud Infrastructure"
     };
 }
 ```
@@ -115,12 +118,6 @@ class CurrentFocus {
 
 <br>
 
-## 📈 GitHub Metrics
-
-![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[username]&theme=tokyonight)
-
-<br>
-
 ## 💼 Professional Experience
 
 <details open>
@@ -147,9 +144,30 @@ class CurrentFocus {
 | Project | Stack | Highlights |
 |---|---|---|
 | **[Threatelligence](https://github.com/Yogesh-005/threatelligence_vin2win)** | Python, FastAPI, React, ETL | Runner-Up, Societe Generale Hackathon 2025 — ETL pipeline ingesting 1,800+ articles & 1,800+ IOCs from live RSS/threat-feed APIs; full RSS-to-intelligence cycle under 30s |
-| **[SafeRoute](https://github.com/Yogesh-005/SafeSteps)** | Python, scikit-learn, Flask, Flutter, Google Maps API | Crime-risk classification model trained on 36,000+ records to score route safety in real time, served via Flask REST API to a Flutter app |
 | **[SecureShell Desktop Tool](https://github.com/Yogesh-005/Unified-Web-Terminal-Interactive-Shell-Access-Anywhere)** | Python, Flask, Flutter, SSH | Cross-platform desktop GUI wrapping SSH CLI operations into a guided interface; estimated 3+ hours/week saved for 10+ non-technical users |
-| **NexusAI** | Python, FastAPI, React, LangChain, Ollama, MongoDB, Docker | Modular multi-agent AI platform for enterprise document compliance & productivity workflows using NLP, LLM-powered classification, and async pipelines with WebSockets |
+| **[SafeRoute](https://github.com/vampbrain/SafeSteps)** | Python, scikit-learn, Flask, Flutter, Google Maps API | Crime-risk classification model trained on 36,000+ records to score route safety in real time, served via Flask REST API to a Flutter app |
+
+## 🚧 Currently Building
+
+<div align="center">
+
+### NexusAI
+
+*A modular multi-agent AI platform for enterprise compliance automation and intelligent productivity workflows.*
+
+| Category | Details |
+|-----------|----------|
+| **Status** | 🚧 Active Development |
+| **Backend** | FastAPI, Python |
+| **Frontend** | React |
+| **AI Stack** | LangChain, Ollama |
+| **Database** | MongoDB |
+| **Infrastructure** | Docker |
+| **Focus Areas** | Multi-Agent Orchestration, Document Intelligence, Workflow Automation, Human-in-the-Loop Validation, Audit Tracking, WebSockets |
+
+</div>
+
+> Building an extensible AI operating system that combines workflow automation, document intelligence, and agent-based reasoning into a unified platform.
 
 </div>
 
@@ -196,12 +214,21 @@ class CurrentFocus {
 ## 📚 Currently Learning
 
 ```
-→ LLM Orchestration
-→ Multi-Agent Systems
-→ Async & Distributed Pipelines
-→ Cryptography & Secure Systems
+> LLM Orchestration
+> Multi-Agent Systems
+> Async & Distributed Pipelines
+> Cryptography & Secure Systems
 ```
 
+<br>
+
+## 💡 Philosophy
+```
+> Build practical software.
+> Solve real problems.
+> Keep learning.
+> Ship consistently.
+```
 <br>
 
 <div align="center">

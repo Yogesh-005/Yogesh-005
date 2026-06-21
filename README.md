@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%86%92%20AI%20Builder%20%E2%86%92%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Full-Stack%20Products%20%E2%80%A2%20AI-Powered%20Solutions%20%E2%80%A2%20Secure%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=850&lines=Building+Full-Stack+Applications;Engineering+AI-Powered+Systems;Exploring+Cybersecurity+%26+Threat+Intelligence;Turning+Ideas+Into+Production+Software" alt="Typing SVG" />
@@ -167,8 +167,19 @@ class CurrentFocus {
 |---|---|
 | 🥈 Runner-Up | Societe Generale Hackathon 2025 — *Threatelligence* |
 | 🏁 Finalist | Dark Patterns Buster Hackathon — Dept. of Consumer Affairs, Govt. of India (2023) |
-| 📜 Certification | Generative AI using IBM WatsonX — IBM Global Certification (Summer 2025) |
-| 📜 Certification | Foundation of Data Science & Programming — IIT Madras (May 2024) |
+
+</div>
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Generative AI using IBM WatsonX | IBM Global Certification | Summer 2025 |
+| Foundation of Data Science & Programming | IIT Madras | May 2024 |
 
 </div>
 

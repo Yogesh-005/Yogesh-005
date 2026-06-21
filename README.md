@@ -115,13 +115,9 @@ class CurrentFocus {
 
 <br>
 
-## 🏆 Trophy Wall
+## 📈 GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yogesh-005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="98%"/>
-
-</div>
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[username]&theme=tokyonight)
 
 <br>
 
